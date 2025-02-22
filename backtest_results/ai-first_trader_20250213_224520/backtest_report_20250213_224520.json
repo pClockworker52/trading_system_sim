@@ -1,0 +1,30 @@
+{
+  "backtest_summary": {
+    "total_trades": 1,
+    "unique_tickers": 1,
+    "unique_agents": 1
+  },
+  "performance_metrics": {
+    "win_rate": 0.0,
+    "avg_return": -1.07,
+    "max_loss": -1.07,
+    "max_gain": -1.07
+  },
+  "trade_log": [
+    {
+      "ticker": "GOOGL",
+      "direction": "SHORT",
+      "entry_time": "2025-02-05 09:30:00",
+      "exit_time": "2025-02-06 09:30:00",
+      "entry_price": 188.365,
+      "exit_price": 190.38,
+      "position_size": 100.0,
+      "pnl": -239.37,
+      "pnl_pct": -1.07,
+      "fees": 37.87,
+      "agent": "ai-first_trader",
+      "reasoning": "",
+      "exit_reason": "Time-based exit after 1d"
+    }
+  ]
+}

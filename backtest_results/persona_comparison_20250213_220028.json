@@ -1,0 +1,8 @@
+{
+  "quantum_trader": {
+    "win_rate": 0.0,
+    "avg_return": 0.16,
+    "max_loss": 0.16,
+    "max_gain": 0.16
+  }
+}

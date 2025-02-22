@@ -1,0 +1,30 @@
+{
+  "backtest_summary": {
+    "total_trades": 1,
+    "unique_tickers": 1,
+    "unique_agents": 1
+  },
+  "performance_metrics": {
+    "win_rate": 100.0,
+    "avg_return": 1.58,
+    "max_loss": 1.58,
+    "max_gain": 1.58
+  },
+  "trade_log": [
+    {
+      "ticker": "AMZN",
+      "direction": "SHORT",
+      "entry_time": "2025-02-05 09:30:00",
+      "exit_time": "2025-02-10 09:30:00",
+      "entry_price": 237.3105,
+      "exit_price": 233.55,
+      "position_size": 100.0,
+      "pnl": 328.96,
+      "pnl_pct": 1.58,
+      "fees": 47.09,
+      "agent": "entropic-edge_trader",
+      "reasoning": "",
+      "exit_reason": "Time-based exit after 5d"
+    }
+  ]
+}

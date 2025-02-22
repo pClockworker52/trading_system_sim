@@ -1,0 +1,23 @@
+[
+  {
+    "action": "BUY",
+    "ticker": "AAPL",
+    "amount": 100,
+    "expected_timeframe": "1d",
+    "expected_profit_percentage": 0.5
+  },
+  {
+    "action": "BUY",
+    "ticker": "AAPL",
+    "amount": 100,
+    "expected_timeframe": "3d",
+    "expected_profit_percentage": 0.5
+  },
+  {
+    "action": "BUY",
+    "ticker": "AAPL",
+    "amount": 100,
+    "expected_timeframe": "1d",
+    "expected_profit_percentage": 0.5
+  }
+]

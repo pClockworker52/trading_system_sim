@@ -1,0 +1,34 @@
+[
+  {
+    "ticker": "AAPL",
+    "direction": "LONG",
+    "entry_time": "2025-02-05 09:30:00",
+    "exit_time": "2025-02-06 09:30:00",
+    "entry_price": 229.5,
+    "exit_price": 231.54,
+    "position_size": 100.0,
+    "pnl": 157.9,
+    "pnl_pct": 0.89,
+    "fees": 46.1,
+    "agent": "ai-first_trader",
+    "reasoning": "",
+    "exit_reason": "Time-based exit after 1d",
+    "persona": "ai-first_trader"
+  },
+  {
+    "ticker": "AAPL",
+    "direction": "LONG",
+    "entry_time": "2025-02-05 09:30:00",
+    "exit_time": "2025-02-06 09:30:00",
+    "entry_price": 229.5,
+    "exit_price": 231.54,
+    "position_size": 100.0,
+    "pnl": 157.9,
+    "pnl_pct": 0.89,
+    "fees": 46.1,
+    "agent": "market_maker",
+    "reasoning": "",
+    "exit_reason": "Time-based exit after 1d",
+    "persona": "market_maker"
+  }
+]

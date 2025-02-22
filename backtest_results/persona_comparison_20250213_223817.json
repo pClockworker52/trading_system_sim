@@ -1,0 +1,20 @@
+{
+  "ai-first_trader": {
+    "win_rate": 100.0,
+    "avg_return": 1.31,
+    "max_loss": 1.31,
+    "max_gain": 1.31
+  },
+  "market_maker": {
+    "win_rate": 0.0,
+    "avg_return": -0.89,
+    "max_loss": -0.89,
+    "max_gain": -0.89
+  },
+  "quantum_trader": {
+    "win_rate": 100.0,
+    "avg_return": 0.89,
+    "max_loss": 0.89,
+    "max_gain": 0.89
+  }
+}

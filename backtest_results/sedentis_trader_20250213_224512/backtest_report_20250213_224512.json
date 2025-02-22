@@ -1,0 +1,30 @@
+{
+  "backtest_summary": {
+    "total_trades": 1,
+    "unique_tickers": 1,
+    "unique_agents": 1
+  },
+  "performance_metrics": {
+    "win_rate": 0.0,
+    "avg_return": 0.05,
+    "max_loss": 0.05,
+    "max_gain": 0.05
+  },
+  "trade_log": [
+    {
+      "ticker": "AMZN",
+      "direction": "SHORT",
+      "entry_time": "2025-02-05 09:30:00",
+      "exit_time": "2025-02-06 09:30:00",
+      "entry_price": 237.3105,
+      "exit_price": 237.19,
+      "position_size": 100.0,
+      "pnl": -35.4,
+      "pnl_pct": 0.05,
+      "fees": 47.45,
+      "agent": "sedentis_trader",
+      "reasoning": "",
+      "exit_reason": "Time-based exit after 1d"
+    }
+  ]
+}

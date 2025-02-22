@@ -1,0 +1,12 @@
+2025-02-13 22:59:39,112 - INFO - Starting historical test for reference date: 2025-02-05 00:00:00-05:00
+2025-02-13 22:59:39,115 - INFO - Collecting historical market data...
+2025-02-13 22:59:39,115 - INFO - 
+================================================================================
+Attempting to load market data:
+2025-02-13 22:59:39,115 - INFO - Date range: 2025-01-22 00:00:00-05:00 to 2025-02-12 00:00:00-05:00
+2025-02-13 22:59:39,115 - INFO - Looking for data for 97 tickers
+2025-02-13 22:59:39,324 - INFO - 
+Data Loading Summary:
+2025-02-13 22:59:39,324 - INFO - Successfully loaded data for: AAPL, MSFT, GOOGL, AMZN, META, NVDA, TSLA, NFLX, PYPL, INTC, CSCO, CMCSA, ADBE, QCOM, TXN, TMUS, ABNB, BKNG, AMD, SBUX, INTU, CHTR, ISRG, MDLZ, GILD, LRCX, REGN, ADI, AMAT, MRVL, ASML, MRNA, KLAC, MU, MNST, AVGO, TEAM, DXCM, ILMN, BIIB, SNPS, CDNS, ALGN, WDAY, IDXX, NXPI, FTNT, CTSH, EA, VRSK, PAYX, ROST, ODFL, CPRT, ADSK, FAST, DLTR, CTAS, ZM, PANW, VRTX, CRWD, EBAY, MCHP, DDOG, XEL, ANSS, SWKS, SIRI, MTCH, OKTA, DOCU, ZS, ULTA, CDW, FANG, ETSY, TTWO, WBA, LCID, RIVN, PCAR, ORLY, MAR, COST, PDD, JD, DASH, COIN, LULU, ROKU, NET, TTD, RBLX, SOFI, UPST, PLTR
+2025-02-13 22:59:39,326 - INFO - ================================================================================
+
