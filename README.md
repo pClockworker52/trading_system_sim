@@ -113,9 +113,6 @@ The HTML reports will automatically open in your default browser.
 - **Modifying backtesting parameters**: Edit the settings in `main.py`
 - **Adding new visualization**: Modify the `json_to_html.py` file or the React components
 
-## Contributing
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
